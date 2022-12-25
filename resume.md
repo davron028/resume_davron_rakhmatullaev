@@ -22,7 +22,6 @@ Android Software Engineer:
 - Successfully moved current applications from java to kotlin in 1 year, now using only kotlin for new apps.
 - Successfully changed design architecture from MVC to MVVM, some projects to MVP too.
 - Success developed app in MVVM architecture with Retrofit2, DI(Hilt), kotlin coroutines. 
-- Improved skills in clean MVVM architecture ( ViewModel + UseCase + Repository + Service) + using dependency injection Hilt.
 
 Starting November 2018:
 Java Spring Developer.
