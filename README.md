@@ -34,22 +34,23 @@ Java Spring Developer.
 - Built service for connecting with Visa Direct, but not publishing it.
 - Built services for connection with insurance companies, such as: Inson, PSB, Askor.
 - Built services for sending notification and create pagelink using Firebase Api.
-- 
+- Built service for connecting with myId api (Personal Identification).
+- Built service for sending message to email.
+- Built Rest API service for immitating socket connection.
+- Built Rest API service for digital banking application with more than 50k users.
 
 Starting December 2018:
 Oracle Developer.
 
-- Wrote high-quality code for new digital bank project using MVVM architecture with kotlin coroutines, retrofit2
-- Added widgets for all applications
-- Learned making custom frameworks (aar file only)
-- Trained 3 juniors, two of them now moved to middle, 1 middle now moved to strong middle
-- Developed(managed) digital bank application (Alliance Mobile) with more than thousand users.
-- Improved skills working with RestAPI 
-- Learned using coin dependency injection, but not used it in live applications yet
-- Success integration of dependency injection (Hilt)
-- Success developed app in MVVM architecture with Retrofit2, DI(Hilt), kotlin coroutines 
-- Learned working with keystore system 
-- Success integration of sensative data locat database to keystore system (keychain) 
+- Tested procedures and function using unit test (ut3).
+- Developed various backend application programs, such as views, functions, triggers, procedures, and packages using SQL and PL/SQL language for the top management for decision making.
+- Optimized a lot of SQL statements and PL/SQL blocks by analyzing the execute the plans of SQL statement and created and modified triggers, SQL queries, stored procedures for performance improvement.
+- Interacting with business analysts and participated in user requirement sessions to analyze and gather data requirements.
+- Coordinating with the front end design team to provide them with the necessary stored procedures and packages and the necessary insight into the data.
+- Created database objects like packages, procedures, and functions according to the client requirement.
+- Developed SQL scripts for referential integrity check, which checks the validity of incoming data with master tables in the database.
+- Designed, implemented and tuned interfaces and batch jobs using PL/SQL.
+  
 
 EDUCATION
 - 
