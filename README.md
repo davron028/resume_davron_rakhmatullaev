@@ -1,6 +1,6 @@
 
 # Davron Rakhmatullaev
-### Fullstack Developer
+### Full-Stack Developer
 
 [GitHub](https://github.com/davron028) | [LinkedIn](https://www.linkedin.com/in/davron-rakhmatullaev/) | [Email](mailto:davron.rakhmatullaev@gmail.com)
 
@@ -13,24 +13,28 @@ Developed banking applications, services, backend logic for top banks in Uzbekis
 
 Android Software Engineer:
 
-- Developed with team banking applications for more than 6 banks in Uzbekistan with more than ten thousand users in 1 year.
-- Developed card scan software using google's ocr 
-- Started with java development only, using MVC architecture
-- Started learning kotlin language in last of 2018 year
-- Started learning whole network functionality using socket io at the beginning
-- Optimized, improved current network class, then wrote custom network class using socket io for team
+- Developed with team banking applications for more than 6 banks in Uzbekistan with more than ten thousand users.
+- Improved skills in clean MVVM architecture ( ViewModel + UseCase + Repository + Service) + using dependency injection Hilt.- Started with java development only, using MVC architecture.
+- Started learning kotlin language in end of 2018 year.
+- Started learning whole network functionality using socket io at the beginning.
+- Making code reviews.
+- Integration of git.
+- Successfully moved current applications from java to kotlin in 1 year, now using only kotlin for new apps.
+- Successfully changed design architecture from MVC to MVVM, some projects to MVP too.
+- Success developed app in MVVM architecture with Retrofit2, DI(Hilt), kotlin coroutines. 
+- Improved skills in clean MVVM architecture ( ViewModel + UseCase + Repository + Service) + using dependency injection Hilt.
 
 Starting November 2018:
 Java Spring Developer.
 
-- Managing Android development team of 4 people
-- Developed(managed) banking applications for more than 3 banks with more than thousand users.
-- Integration of git 
-- Successfully moved current applications from java to kotlin in 1 year, now using only kotlin for new apps
-- Successfully changed design architecture from MVC to MVVM, some projects to MVP too
-- Developed software card reader from NFC using EMV(Europay, Mastercard, and Visa) library
-- Wrote custom card scaner via NFC framework 
-- Integration of using google jetpack, room, hilt
+- Improve skills in building SOAP UI services, successfully built service with MIB and HUMO for banking application.
+- Built service using Servlet for connection with HUMO Pensiya.
+- Built service using RestAPI for connection with UZASBO.
+- Built RestAPI connection with Click and Paynet payment system.
+- Built service for connecting with Visa Direct, but not publishing it.
+- Built services for connection with insurance companies, such as: Inson, PSB, Askor.
+- Built services for sending notification and create pagelink using Firebase Api.
+- 
 
 Starting December 2018:
 Oracle Developer.
