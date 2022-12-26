@@ -76,11 +76,3 @@ HONORS
 **11, 2017 Participation “Startup Challenge Seoul 2017”**
 **November, 2018 Winner of the contest International contest “GARAGE 48”**
 **10, 2019 Winner of the contest “Ucell Mobile Challenge 2019”**
-
-PORTFOLIO
--
-### Android
--[AllGood](https://play.google.com/store/apps/details?id=uz.allgood) \
--[Innmall](https://play.google.com/store/apps/details?id=uz.innmall) \
--[Alliance Mobile](https://play.google.com/store/apps/details?id=fido.aab_mobile) \
--[XalqMobile](https://play.google.com/store/apps/details?id=app.xalqmobile) 
