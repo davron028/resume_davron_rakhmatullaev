@@ -11,18 +11,18 @@ Oracle, Java Spring and Android Team Lead**
 
 Developed banking applications, services, backend logic for top banks in Uzbekistan with more than ten thousand users.
 
-Android Software Engineer:
+Starting December 2018:
+Oracle Developer.
 
-- Developed with team banking applications for more than 6 banks in Uzbekistan with more than ten thousand users.
-- Improved skills in clean MVVM architecture ( ViewModel + UseCase + Repository + Service) + using dependency injection Hilt.- Started with java development only, using MVC architecture.
-- Started learning kotlin language in end of 2018 year.
-- Started learning whole network functionality using socket io at the beginning.
-- Making code reviews.
-- Integration of git.
-- Successfully moved current applications from java to kotlin in 1 year, now using only kotlin for new apps.
-- Successfully changed design architecture from MVC to MVVM, some projects to MVP too.
-- Success developed app in MVVM architecture with Retrofit2, DI(Hilt), kotlin coroutines. 
-
+- Tested procedures and function using unit test (ut3).
+- Developed various backend application programs, such as views, functions, triggers, procedures, and packages using SQL and PL/SQL language for the top management for decision making.
+- Optimized a lot of SQL statements and PL/SQL blocks by analyzing the execute the plans of SQL statement and created and modified triggers, SQL queries, stored procedures for performance improvement.
+- Interacting with business analysts and participated in user requirement sessions to analyze and gather data requirements.
+- Coordinating with the front end design team to provide them with the necessary stored procedures and packages and the necessary insight into the data.
+- Created database objects like packages, procedures, and functions according to the client requirement.
+- Developed SQL scripts for referential integrity check, which checks the validity of incoming data with master tables in the database.
+- Designed, implemented and tuned interfaces and batch jobs using PL/SQL.
+  
 Starting November 2018:
 Java Spring Developer.
 
@@ -38,18 +38,18 @@ Java Spring Developer.
 - Built Rest API service for immitating socket connection.
 - Built Rest API service for digital banking application with more than 50k users.
 
-Starting December 2018:
-Oracle Developer.
+Android Software Engineer:
 
-- Tested procedures and function using unit test (ut3).
-- Developed various backend application programs, such as views, functions, triggers, procedures, and packages using SQL and PL/SQL language for the top management for decision making.
-- Optimized a lot of SQL statements and PL/SQL blocks by analyzing the execute the plans of SQL statement and created and modified triggers, SQL queries, stored procedures for performance improvement.
-- Interacting with business analysts and participated in user requirement sessions to analyze and gather data requirements.
-- Coordinating with the front end design team to provide them with the necessary stored procedures and packages and the necessary insight into the data.
-- Created database objects like packages, procedures, and functions according to the client requirement.
-- Developed SQL scripts for referential integrity check, which checks the validity of incoming data with master tables in the database.
-- Designed, implemented and tuned interfaces and batch jobs using PL/SQL.
-  
+- Developed with team banking applications for more than 6 banks in Uzbekistan with more than ten thousand users.
+- Improved skills in clean MVVM architecture ( ViewModel + UseCase + Repository + Service) + using dependency injection Hilt.- Started with java development only, using MVC architecture.
+- Started learning kotlin language in end of 2018 year.
+- Started learning whole network functionality using socket io at the beginning.
+- Making code reviews.
+- Integration of git.
+- Successfully moved current applications from java to kotlin in 1 year, now using only kotlin for new apps.
+- Successfully changed design architecture from MVC to MVVM, some projects to MVP too.
+- Success developed app in MVVM architecture with Retrofit2, DI(Hilt), kotlin coroutines. 
+
 
 EDUCATION
 - 
