@@ -28,11 +28,11 @@ Java Spring Team Lead.
 Starting September 2019 - 2021:
 Java Spring Developer.
 
-- Improve skills in building SOAP UI services, successfully built service with MIB and HUMO for banking application.
-- Built service using Servlet for connection with HUMO Pensiya.
+- Improve skills in building SOAP UI services, successfully built service with MIB(Бюро принудительного исполнения) and HUMO for banking application.
+- Built service using Servlet for connection with HUMO Pension.
 - Built service using RestAPI for connection with UZASBO.
 - Built RestAPI connection with Click and Paynet payment system.
-- Built service for connecting with Visa Direct, but not publishing it.
+- Built service for connecting with Visa Direct.
 - Built services for connection with insurance companies, such as: Inson, PSB, Askor.
 - Built services for sending notification and create pagelink using Firebase Api.
 - Built service for connecting with myId api (Personal Identification).
