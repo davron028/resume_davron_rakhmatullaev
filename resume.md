@@ -7,23 +7,20 @@
 EXPERIENCE
 -
 **[Fido Biznes](https://fido-biznes.uz/#/), February 2018 – Present <br>
-Oracle, Java Spring and Android Team Lead**
+Android, Oracle and Java Spring Team Lead**
 
 Developed banking applications, services, backend logic for top banks in Uzbekistan with more than ten thousand users.
 
-Starting December 2018:
-Oracle Developer.
+Starting January 2022:
+Java Spring Team Lead.
+- Hired juniors for java spring.
+- Making analyze and code review.
 
-- Tested procedures and function using unit test (ut3).
-- Developed various backend application programs, such as views, functions, triggers, procedures, and packages using SQL and PL/SQL language for the top management for decision making.
-- Optimized a lot of SQL statements and PL/SQL blocks by analyzing the execute the plans of SQL statement and created and modified triggers, SQL queries, stored procedures for performance improvement.
-- Interacting with business analysts and participated in user requirement sessions to analyze and gather data requirements.
-- Coordinating with the front end design team to provide them with the necessary stored procedures and packages and the necessary insight into the data.
-- Created database objects like packages, procedures, and functions according to the client requirement.
-- Developed SQL scripts for referential integrity check, which checks the validity of incoming data with master tables in the database.
-- Designed, implemented and tuned interfaces and batch jobs using PL/SQL.
-  
-Starting November 2018:
+Starting September 2022
+Head of back-end(dbms, service) development department.
+- 
+
+Starting September 2019 - 2021:
 Java Spring Developer.
 
 - Improve skills in building SOAP UI services, successfully built service with MIB and HUMO for banking application.
@@ -38,6 +35,18 @@ Java Spring Developer.
 - Built Rest API service for immitating socket connection.
 - Built Rest API service for digital banking application with more than 50k users.
 
+Starting December 2018:
+Oracle Developer.
+
+- Tested procedures and function using unit test (ut3).
+- Developed various backend application programs, such as views, functions, triggers, procedures, and packages using SQL and PL/SQL language for the top management for decision making.
+- Optimized a lot of SQL statements and PL/SQL blocks by analyzing the execute the plans of SQL statement and created and modified triggers, SQL queries, stored procedures for performance improvement.
+- Interacting with business analysts and participated in user requirement sessions to analyze and gather data requirements.
+- Coordinating with the front end design team to provide them with the necessary stored procedures and packages and the necessary insight into the data.
+- Created database objects like packages, procedures, and functions according to the client requirement.
+- Developed SQL scripts for referential integrity check, which checks the validity of incoming data with master tables in the database.
+- Designed, implemented and tuned interfaces and batch jobs using PL/SQL.
+  
 Android Software Engineer:
 
 - Developed with team banking applications for more than 6 banks in Uzbekistan with more than ten thousand users.
