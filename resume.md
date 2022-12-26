@@ -15,10 +15,15 @@ Starting January 2022:
 Java Spring Team Lead.
 - Hired juniors for java spring.
 - Making analyze and code review.
+- Improve working on Pool Connection, Garbage Collections.
+- Invest on improvement of soft skills of developers (teaching of solid principles and optimization).
 
 Starting September 2022
 Head of back-end(dbms, service) development department.
-- 
+- Managing team of developers.
+- Task management.
+- Code Review.
+- Controlling git vcs.
 
 Starting September 2019 - 2021:
 Java Spring Developer.
@@ -34,6 +39,7 @@ Java Spring Developer.
 - Built service for sending message to email.
 - Built Rest API service for immitating socket connection.
 - Built Rest API service for digital banking application with more than 50k users.
+- Improve working with Socket IO, WebSocket connections.
 
 Starting December 2018:
 Oracle Developer.
