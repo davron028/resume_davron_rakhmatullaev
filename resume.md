@@ -7,7 +7,7 @@
 EXPERIENCE
 -
 **[Fido Biznes](https://fido-biznes.uz/#/), February 2018 – Present <br>
-Head of back-end(oracle dbms, service) development department**
+Head of back-end(Oracle dbms, service) development department**
 
 Developed banking applications, services, backend logic for top banks in Uzbekistan with more than hundred thousand users.
 
