@@ -7,9 +7,9 @@
 EXPERIENCE
 -
 **[Fido Biznes](https://fido-biznes.uz/#/), February 2018 – Present <br>
-Android, Oracle and Java Spring Team Lead**
+Head of back-end(dbms, service) development department**
 
-Developed banking applications, services, backend logic for top banks in Uzbekistan with more than ten thousand users.
+Developed banking applications, services, backend logic for top banks in Uzbekistan with more than hundred thousand users.
 
 Starting September 2022
 Head of back-end(dbms, service) development department.
