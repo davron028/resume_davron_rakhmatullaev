@@ -11,19 +11,19 @@ Android, Oracle and Java Spring Team Lead**
 
 Developed banking applications, services, backend logic for top banks in Uzbekistan with more than ten thousand users.
 
-Starting January 2022:
-Java Spring Team Lead.
-- Hired juniors for java spring.
-- Making analyze and code review.
-- Improve working on Pool Connection, Garbage Collections.
-- Invest on improvement of soft skills of developers (teaching of solid principles and optimization).
-
 Starting September 2022
 Head of back-end(dbms, service) development department.
 - Managing team of developers.
 - Task management.
 - Code Review.
 - Controlling git vcs.
+
+Starting January 2022:
+Java Spring Team Lead.
+- Hired juniors for java spring.
+- Making analyze and code review.
+- Improve working on Pool Connection, Garbage Collections.
+- Invest on improvement of soft skills of developers (teaching of solid principles and optimization).
 
 Starting September 2019 - 2021:
 Java Spring Developer.
